@@ -1,0 +1,6 @@
+firstNum=int(input("Enter the first number"))
+secondNum=int(input("Enter the second number"))
+thirdNum=int(input("Enter the third number"))
+fourthNum=int(input("Enter the fourth number"))
+x=((firstNum+secondNum+thirdNum+fourthNum)/4)
+print(f"The average of {fourthNum} & {secondNum} & {thirdNum} & {fourthNum} is {x}")
